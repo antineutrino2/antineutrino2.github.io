@@ -1,2 +1,3 @@
 # antineutrino2.github.io
-personal website
+The repository holds the code used on my mini-website
+ 
